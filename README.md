@@ -5,4 +5,3 @@
 *   Name: Juan Carrasco Vico
 *   At: EPSJ - University of Jaén
 *   email: jcv00036@red.ujaen.es
-*   DNI: 78027531P
